@@ -20,4 +20,4 @@ This project explored ways to enhance the mean shift tracking algorithm to track
     python3 EhnancedMeanShift.py 4
     ```
 ## Demo
-
+https://github.com/hgray2/wrc-tracking/assets/70483261/1780fcc6-d7d0-4e03-ac0e-d58e01d4c142
